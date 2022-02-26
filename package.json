@@ -1,0 +1,19 @@
+{
+  "name": "emojis-json",
+  "version": "1.0.0",
+  "description": "JSON file with emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/romanortynskyi/emojis-json"
+  },
+  "keywords": [
+    "emoji",
+    "json"
+  ],
+  "author": "",
+  "license": "ISC"
+}
